@@ -7,7 +7,9 @@ There are many things that you have to keep in mind while driving a car. You mus
 
 Finding Data
 https://catalog.data.gov/dataset/u-s-local-climatological-data-lcd2
+124 columns and 45985 rows and it was collected using weather station data
 https://catalog.data.gov/dataset/crash-reporting-drivers-data
+43 columns and 158202 rows and it was collected using police report data
 
 
 
